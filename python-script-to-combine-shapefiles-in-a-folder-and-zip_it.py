@@ -118,7 +118,7 @@ def zipShapefile(inShapefile, newZipFN):
     # FOLDERS
     inDir = r"Drive letter here:\your folder containing files here"  
     outDir = r"Drive letter here:\your output folder here"  
-    zipTiffFilesInDir(inDir, outDir)  
+    #zipTiffFilesInDir(inDir, outDir)  
     zipShapefilesInDir(inDir, outDir) 
     print "done!"
 #------------------------------------------------------------   
